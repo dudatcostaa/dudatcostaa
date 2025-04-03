@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Maria+Eduarda" alt="Typing SVG" />
 </p>
 
-<h5 align="left" style="color: #ff79c6;">🎓 Undergraduate Computer Science student at the Federal University of Santa Catarina.  
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN0bHZzYWlwdDBvY3Fld2lsY3ppYjFrMWF2M3hvYTg1aHUyank2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R52934IAVt4jK/giphy.gif" width="100"/>
-</h5>
+<h4 align="left" style="color: #ff79c6;">🎓 Undergraduate Computer Science student at the Federal University of Santa Catarina.  
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN0bHZzYWlwdDBvY3Fld2lsY3ppYjFrMWF2M3hvYTg1aHUyank2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R52934IAVt4jK/giphy.gif" width="120"/>
+</h4>
 
 📫 **How to reach me**  
 <a href="mailto:dudatcostaa@gmail.com">
@@ -34,4 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudatcostaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="dudatcostaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudatcostaa&show_icons=true&locale=en&theme=radical" alt="dudatcostaa" /></p>
-></p>
