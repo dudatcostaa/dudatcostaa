@@ -1,5 +1,6 @@
 <p align="center" style="background-color: #141321; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Maria+Eduarda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Maria+Eduarda" />
+" alt="Typing SVG" />
 </p>
 
 <h4 align="left" style="color: #ff79c6;">🎓 Undergraduate Computer Science student at the Federal University of Santa Catarina.  
