@@ -4,7 +4,6 @@
 </p>
 
 <h4 align="left" style="color: #ff79c6;">🎓 Undergraduate Computer Science student at the Federal University of Santa Catarina.  
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN0bHZzYWlwdDBvY3Fld2lsY3ppYjFrMWF2M3hvYTg1aHUyank2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R52934IAVt4jK/giphy.gif" width="120"/>
 </h4>
 
 📫 **How to reach me**  
