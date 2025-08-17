@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ff79c6&center=true&vCenter=true&width=435&lines=Hiii%2C+Hi, I'm Maria Eduarda!;welcome+to+my+github+profile+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ff79c6&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Maria+Eduarda!)](https://git.io/typing-svg)
 
 <h5 align="center">🎓 Undergraduate Computer Science student at the Federal University of Santa Catarina.</h5>
 
@@ -21,6 +21,8 @@
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudatcostaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="dudatcostaa" />
+
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudatcostaa&show_icons=true&locale=en&theme=radical" alt="dudatcostaa" />
 
