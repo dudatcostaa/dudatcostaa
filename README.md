@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-teixeira-costa-b2979a331/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudatcostaa@gmail.com)
 
+---
+
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
