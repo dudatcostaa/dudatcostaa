@@ -28,8 +28,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudatcostaa&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudatcostaa&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
