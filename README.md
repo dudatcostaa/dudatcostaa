@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press%20Start%202P&size=20&duration=2500&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=80&lines=★MARIA%20EDUARDA★"
-  alt="Maria Eduarda"
+  src="https://readme-typing-svg.demolab.com?font=Press%20Start%202P&size=20&duration=2500&pause=1000&color=FF71CE&center=true&vCenter=true&width=900&height=80&lines=%E2%98%85%20MARIA%20EDUARDA%20%E2%98%85"
+  alt="★ MARIA EDUARDA ★"
 />
 
 <p>
