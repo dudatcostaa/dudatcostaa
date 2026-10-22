@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=70&lines=★ MARIA+EDUARDA ★"
+  src="https://readme-typing-svg.demolab.com?font=Press%20Start%202P&size=20&duration=2500&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=80&lines=MARIA%20EDUARDA"
   alt="Maria Eduarda"
 />
 
@@ -22,7 +22,5 @@
 <a href="https://www.linkedin.com/in/maria-eduarda-teixeira-costa-b2979a331/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A8CD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 </div>
