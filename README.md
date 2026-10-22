@@ -13,19 +13,16 @@
 
 <img src="./discos_animados.gif" width="180" alt="Discos de vinil pixel art"/>
 &nbsp;&nbsp;
-<img src="./gif.gif" width="180" alt="Computador retrô"/>
-
-<br/><br/>
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A8CD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 <img
   height="160"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudatcostaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF71CE&text_color=C9D1D9"
 />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/maria-eduarda-teixeira-costa-b2979a331/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A8CD8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 </div>
