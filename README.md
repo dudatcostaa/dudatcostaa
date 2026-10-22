@@ -6,7 +6,7 @@
 />
 
 <p>
-  <code>★ Estudante de Ciência da Computação da Universidade Federal de Santa Catarina ★</code>
+  <code>★ Estudante de Ciências da Computação da Universidade Federal de Santa Catarina ★</code>
 </p>
 
 <br/>
